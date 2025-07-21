@@ -6,30 +6,30 @@ ___
 
 ## 📝 Important Visuals and Features
 
-- Total Sales by Property Type & Status
+- Total Sales by Property Type & Status : 
 Clustered Column chart displaying revenue split across Apartments, Condos, Townhouses, etc., categorized by status (Sold, Pending, For Sale)
 
-- Average Days on Market by City
+- Average Days on Market by City : 
 Donut Chart showing city-wise average time properties stay on the market—helping identify hot and slow-moving markets
 
-- Price vs. Area (Sqft) by Property Type
+- Price vs. Area (Sqft) by Property Type : 
 Line and Stacked Column chart revealing which property types offer the most space relative to price
 
-- Listings by Agent (Volume & Revenue)
+- Listings by Agent (Volume & Revenue) : 
 Stacked Area chart showing number of properties listed per agent
 Stacked bar chart of % revenue contribution per agent 
 
-- Property Count by Status and state
+- Property Count by Status and state : 
 Funnel chart reflecting the proportion of Sold, Pending, and For Sale properties
 Donut Chart showing no of properties listed by State
 
-- Minimum Price by City & Status
+- Minimum Price by City & Status : 
 Line Chart visual displaying the lowest listed price per city, segmented by status great for identifying affordability zones
 
-- Revenue by Number of Bedrooms
+- Revenue by Number of Bedrooms : 
 Line Chart showing revenue contribution by bedroom count
 
-- Interactive Filters & Slicers
+- Interactive Filters & Slicers : 
 City-level slicers allow dynamic exploration of trends
 
 ___
